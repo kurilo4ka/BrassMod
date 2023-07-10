@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "firstone:brass_block",
+    "firstone:brass_ore",
+    "firstone:deepslate_brass_ore",
+    "firstone:raw_brass_block"
+  ]
+}

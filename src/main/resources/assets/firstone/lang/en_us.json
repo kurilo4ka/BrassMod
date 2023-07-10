@@ -1,0 +1,16 @@
+{
+  "item.firstone.brass_ingot": "Brass Ingot",
+  "item.firstone.brass_nugget": "Brass Nugget",
+  "item.firstone.raw_brass": "Raw Brass",
+  "item.firstone.dowsing_rod": "Dowsing Rod",
+  "item.firstone.reapers_sycle": "Reaper's Sycle",
+
+  "block.firstone.brass_block": "Brass Block",
+  "block.firstone.brass_ore": "Brass Ore",
+  "block.firstone.deepslate_brass_ore": "Deepslate Brass Ore",
+  "block.firstone.raw_brass_block": "Raw Brass Block",
+  "block.firstone.speedy_block": "Speedy Block",
+
+  "itemGroup.firstone.brass": "Brass FirstOne Tab",
+  "item.firstone.dowsing_rod.no_valuables": "No valuables found"
+}

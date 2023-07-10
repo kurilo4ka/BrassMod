@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "firstone",
+  "version": "${version}",
+
+  "name": "First One",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/firstone/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.kurilo.firstone.FirstOne"
+    ]
+  },
+  "mixins": [
+    "firstone.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "firstone:raw_brass"
+  },
+  "result": "firstone:brass_ingot"
+}
